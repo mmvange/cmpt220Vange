@@ -1,0 +1,7 @@
+6 pts
+
+Incomplete:
+- Class rectangle missing
+- Programs do not compile
+- No UML diagram
+

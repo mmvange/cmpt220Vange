@@ -1,0 +1,15 @@
+40 pts
+
+The project attempts to give advise on wether to buy or sell stock depending on
+market historic price changes.  The idea has good merit. 
+
+However, there are some issues...
+Code:
+- You are missing headers. -2pts
+
+- There is incorrect indentation. -1pt
+
+Overall:
+- The project is extremely good. This is great! +2pts
+
+- Decent work above average of an SD1 student. +1pt

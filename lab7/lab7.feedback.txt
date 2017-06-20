@@ -1,0 +1,7 @@
+6 pts
+
+Incomplete:
+- At least one rogram does not compile
+- No UML diagram
+- 10.17 missing
+
